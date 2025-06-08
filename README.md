@@ -21,7 +21,7 @@ CryptoTrader is a sleek, professional cryptocurrency exchange mobile application
 
 ### 💰 Deposit Screen
 - Cryptocurrency selection with search functionality
-- Network selection for deposits
+- Network selection for deposits 
 - QR code display for wallet address
 - Copy-to-clipboard functionality for addresses
 - Important deposit information and warnings
