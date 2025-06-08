@@ -89,25 +89,17 @@ CryptoTrader is a sleek, professional cryptocurrency exchange mobile application
 
 ## 📸 Screenshots
 
-### Home Screen
-![Home](screenshots/Screenshot_1749384919.png)
+| Home Screen | Deposit Screen | Deposit QR |
+|:---:|:---:|:---:|
+| <img src="screenshots/Screenshot_1749384919.png" width="250" alt="Home Screen"> | <img src="screenshots/Screenshot_1749384925.png" width="250" alt="Deposit Screen"> | <img src="screenshots/Screenshot_1749384927.png" width="250" alt="Deposit QR Code"> |
 
-### Deposit Screen
-![Deposit](screenshots/Screenshot_1749384925.png)
-![Deposit QR](screenshots/Screenshot_1749384927.png)
+| Withdraw Screen | Withdraw Confirmation | Swap Screen |
+|:---:|:---:|:---:|
+| <img src="screenshots/Screenshot_1749384930.png" width="250" alt="Withdraw Screen"> | <img src="screenshots/Screenshot_1749384932.png" width="250" alt="Withdraw Confirmation"> | <img src="screenshots/Screenshot_1749384936.png" width="250" alt="Swap Screen"> |
 
-### Withdraw Screen
-![Withdraw](screenshots/Screenshot_1749384930.png)
-![Withdraw Confirmation](screenshots/Screenshot_1749384932.png)
-
-### Swap Screen
-![Swap](screenshots/Screenshot_1749384936.png)
-![Swap Confirmation](screenshots/Screenshot_1749384939.png)
-
-### Buy Screen
-![Buy](screenshots/Screenshot_1749384942.png)
-![Buy Success](screenshots/Screenshot_1749384945.png)
-![Buy Confirmation](screenshots/Screenshot_1749384953.png)
+| Swap Confirmation | Buy Screen | Buy Confirmation |
+|:---:|:---:|:---:|
+| <img src="screenshots/Screenshot_1749384939.png" width="250" alt="Swap Confirmation"> | <img src="screenshots/Screenshot_1749384942.png" width="250" alt="Buy Screen"> | <img src="screenshots/Screenshot_1749384953.png" width="250" alt="Buy Confirmation"> |
 
 ## 🔜 Roadmap
 
